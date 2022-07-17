@@ -1,0 +1,5 @@
+this is for trying the below k8s example:
+
+https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
+
+directly run the kubectl apply commands in this page accomplish this goal
